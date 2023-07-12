@@ -26,8 +26,8 @@ class Enemy:
 
         # health
         self.health: HealthBar = HealthBar(
-            300,
-            300,
+            200,
+            200,
             pygame.FRect(
                 position.x,
                 position.y - 20,
