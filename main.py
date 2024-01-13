@@ -350,7 +350,7 @@ Movement:
     LEFT CLICK to hang on a web
 
 You need to murder:
-    cavement
+    cavemen
 
 HUD:
 - go to main menu option
